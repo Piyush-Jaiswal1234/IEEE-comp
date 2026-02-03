@@ -1,9 +1,16 @@
 .home-container {
   height: 100vh; /* full screen */
   display: flex;
-  align-items: center;   /* vertical center */
-  justify-content: center; /* horizontal center */
-  padding: 0 20px;
+  align-items: center;   /*vertical center*/
+  justify-content: center; /*horizontal center*/ 
+}
+
+img{
+  width: 100vh;
+}
+
+.Typing_effect{
+  color:#666666;
 }
 
 .home-title {
